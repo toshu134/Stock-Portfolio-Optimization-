@@ -27,8 +27,9 @@ The **Dashboard** provides an analytical view of:
 - **Stock analysis tab:** Provides a comprehensive overview of individual stocks, including historical performance and key metrics.
 - **Risk-Return Analysis:**  Offers in-depth insights into the portfolio's composition, displaying risk-return analysis and asset distribution through interactive graphs.
 - **Historical Performance:** Visualizes the improved portfolio after optimization, highlighting allocation adjustments for better performance..
-![image](https://github.com/user-attachments/assets/94d7cc34-52ee-4850-8ede-985c1bfb0e26)
-![Screenshot 2025-03-22 030522](https://github.com/user-attachments/assets/1c5a29b9-da2c-48f6-8358-ed2d85020f3f)
+
+
+![image](https://github.com/user-attachments/assets/94d7cc34-52ee-4850-8ede-985c1bfb0e26) ![Screenshot 2025-03-22 030522](https://github.com/user-attachments/assets/1c5a29b9-da2c-48f6-8358-ed2d85020f3f)
 ![Screenshot 2025-03-22 030532](https://github.com/user-attachments/assets/6787bf1d-9c6d-4861-b206-7793b32bbb7d)
 
 
