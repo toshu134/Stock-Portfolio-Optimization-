@@ -1,0 +1,9 @@
+Flask
+Dash
+yfinance
+pandas
+numpy
+scipy
+matplotlib
+plotly
+requests
